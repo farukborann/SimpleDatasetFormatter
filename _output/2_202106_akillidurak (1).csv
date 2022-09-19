@@ -1,0 +1,185 @@
+_id;durak_no;ekran_tipi;enerji_tipi
+0;1003D;D;Güneş Enerjisi
+1;1203A;D;Güneş Enerjisi
+2;1409D;D;Güneş Enerjisi
+3;17A;C;Güneş Enerjisi
+4;2411D;C;Güneş Enerjisi
+5;3D;A;Şebeke Elektriği
+6;3A;A;Şebeke Elektriği
+7;5D;A;Şebeke Elektriği
+8;6D;A;Şebeke Elektriği
+9;7A;B;Şebeke Elektriği
+10;7D;B;Şebeke Elektriği
+11;8D;C;Güneş Enerjisi
+12;12D;C;Güneş Enerjisi
+13;19A;A;Şebeke Elektriği
+14;19D;A;Şebeke Elektriği
+15;24D;A;Şebeke Elektriği
+16;25D;A;Şebeke Elektriği
+17;26A;A;Şebeke Elektriği
+18;32D;A;Şebeke Elektriği
+19;33D;B;Şebeke Elektriği
+20;35A;B;Şebeke Elektriği
+21;37A;B;Şebeke Elektriği
+22;39A;B;Şebeke Elektriği
+23;41A;B;Şebeke Elektriği
+24;48A;B;Şebeke Elektriği
+25;57A;B;Şebeke Elektriği
+26;58A;B;Şebeke Elektriği
+27;59A;B;Şebeke Elektriği
+28;60A;B;Şebeke Elektriği
+29;61A;B;Şebeke Elektriği
+30;84A;B;Şebeke Elektriği
+31;86A;B;Şebeke Elektriği
+32;87A;B;Şebeke Elektriği
+33;1626D;B;Şebeke Elektriği
+34;2405A;C;Güneş Enerjisi
+35;2408A;C;Güneş Enerjisi
+36;2407A;C;Güneş Enerjisi
+37;2414A;C;Güneş Enerjisi
+38;2415A;C;Güneş Enerjisi
+39;2416A;C;Güneş Enerjisi
+40;11A;B;Şebeke Elektriği
+41;602A;B;Şebeke Elektriği
+42;2419A;C;Güneş Enerjisi
+43;2420A;C;Güneş Enerjisi
+44;2421A;C;Güneş Enerjisi
+45;2422A;B;Şebeke Elektriği
+46;2423A;B;Şebeke Elektriği
+47;2424A;B;Şebeke Elektriği
+48;2425A;B;Şebeke Elektriği
+49;2426A;B;Şebeke Elektriği
+50;2427A;B;Şebeke Elektriği
+51;2428A;B;Şebeke Elektriği
+52;2429A;B;Şebeke Elektriği
+53;2430A;B;Şebeke Elektriği
+54;2431A;B;Şebeke Elektriği
+55;1515D;B;Şebeke Elektriği
+56;1518D;B;Şebeke Elektriği
+57;1520D;B;Şebeke Elektriği
+58;2272D;B;Şebeke Elektriği
+59;1557A;B;Şebeke Elektriği
+60;1570A;B;Şebeke Elektriği
+61;1574A;D;Güneş Enerjisi
+62;1600A;B;Şebeke Elektriği
+63;1604A;A;Şebeke Elektriği
+64;1606A;A;Şebeke Elektriği
+65;1620A;A;Şebeke Elektriği
+66;95 A;B;Şebeke Elektriği
+67;96 A;D;Güneş Enerjisi
+68;211 A;A;Şebeke Elektriği
+69;213 A;B;Şebeke Elektriği
+70;214 A;D;Güneş Enerjisi
+71;215 A;D;Güneş Enerjisi
+72;217 A;B;Şebeke Elektriği
+73;219 A;B;Şebeke Elektriği
+74;227 A;B;Şebeke Elektriği
+75;271 D;B;Şebeke Elektriği
+76;316 D;B;Şebeke Elektriği
+77;272 A;B;Şebeke Elektriği
+78;847 D;B;Şebeke Elektriği
+79;1277D;A;Şebeke Elektriği
+80;1399 D;B;Şebeke Elektriği
+81;1400 A;B;Şebeke Elektriği
+82;1401 A;B;Şebeke Elektriği
+83;1402 D;B;Şebeke Elektriği
+84;1406 D;B;Şebeke Elektriği
+85;1407 D;B;Şebeke Elektriği
+86;1410 D;B;Şebeke Elektriği
+87;1412 A;B;Şebeke Elektriği
+88;1417 A;B;Şebeke Elektriği
+89;1424 A;B;Şebeke Elektriği
+90;1430 A;B;Şebeke Elektriği
+91;1432 A;B;Şebeke Elektriği
+92;1431 A;B;Şebeke Elektriği
+93;1457 A;B;Şebeke Elektriği
+94;1472 A;B;Şebeke Elektriği
+95;1473 A;B;Şebeke Elektriği
+96;1475 A;B;Şebeke Elektriği
+97;1492 A;B;Şebeke Elektriği
+98;1635 A;D;Güneş Enerjisi
+99;1636 A;B;Şebeke Elektriği
+100;1641 A;D;Güneş Enerjisi
+101;1642 A;B;Şebeke Elektriği
+102;1651 A;D;Güneş Enerjisi
+103;2244 A;B;Şebeke Elektriği
+104;1682A;B;Şebeke Elektriği
+105;95 D;D;Güneş Enerjisi
+106;1643 A;D;Güneş Enerjisi
+107;1747 A;C;Güneş Enerjisi
+108;851 D;C;Güneş Enerjisi
+109;1656 A;D;Güneş Enerjisi
+110;347 D;B;Şebeke Elektriği
+111;347 A;D;Güneş Enerjisi
+112;590A;B;Şebeke Elektriği
+113;591 A;B;Şebeke Elektriği
+114;595 A;B;Şebeke Elektriği
+115;596 D;B;Şebeke Elektriği
+116;804 A;B;Şebeke Elektriği
+117;917 D;D;Güneş Enerjisi
+118;968 D;B;Şebeke Elektriği
+119;974 A;B;Şebeke Elektriği
+120;976 D;B;Şebeke Elektriği
+121;979 D;B;Şebeke Elektriği
+122;981 D;B;Şebeke Elektriği
+123;1008 D;B;Şebeke Elektriği
+124;1018 D;B;Şebeke Elektriği
+125;1022 D;B;Şebeke Elektriği
+126;398 A;B;Şebeke Elektriği
+127;1185 A;B;Şebeke Elektriği
+128;1117 D;B;Şebeke Elektriği
+129;1121 A;B;Şebeke Elektriği
+130;1194 A;B;Şebeke Elektriği
+131;1195 A;B;Şebeke Elektriği
+132;1196 A;B;Şebeke Elektriği
+133;1198 A;B;Şebeke Elektriği
+134;1199 A;B;Şebeke Elektriği
+135;1200 A;B;Şebeke Elektriği
+136;1263 A;B;Şebeke Elektriği
+137;2112D;B;Şebeke Elektriği
+138;1741A;B;Şebeke Elektriği
+139;339 A;D;Güneş Enerjisi
+140;375 A;B;Şebeke Elektriği
+141;1767 A;D;Güneş Enerjisi
+142;393 D;A;Şebeke Elektriği
+143;395 A;B;Şebeke Elektriği
+144;397 A;D;Güneş Enerjisi
+145;400 A;D;Güneş Enerjisi
+146;422 A;B;Şebeke Elektriği
+147;431 A;B;Şebeke Elektriği
+148;1766 A;D;Güneş Enerjisi
+149;1742 A;D;Güneş Enerjisi
+150;1740 A;B;Şebeke Elektriği
+151;1685 A;B;Şebeke Elektriği
+152;1683 A;D;Güneş Enerjisi
+153;1682 D;B;Şebeke Elektriği
+154;1672 A;B;Şebeke Elektriği
+155;1662 D;B;Şebeke Elektriği
+156;1633 A;B;Şebeke Elektriği
+157;1634 D;B;Şebeke Elektriği
+158;1678 D;B;Şebeke Elektriği
+159;1661 A;B;Şebeke Elektriği
+160;1661 D;B;Şebeke Elektriği
+161;1681 A;D;Güneş Enerjisi
+162;1681 D;B;Şebeke Elektriği
+163;1679 A;B;Şebeke Elektriği
+164;1679 D;B;Şebeke Elektriği
+165;1680 A;B;Şebeke Elektriği
+166;1680 D;B;Şebeke Elektriği
+167;1288 D;B;Şebeke Elektriği
+168;1288 A;B;Şebeke Elektriği
+169;1817 A;B;Şebeke Elektriği
+170;1816 A;D;Güneş Enerjisi
+171;2403 A;C;Güneş Enerjisi
+172;651 D;B;Şebeke Elektriği
+173;591 D;B;Şebeke Elektriği
+174;1627A;C;Güneş Enerjisi
+175;1013A;C;Güneş Enerjisi
+176;1396D;C;Güneş Enerjisi
+177;1659A;D;Güneş Enerjisi
+178;404A;C;Güneş Enerjisi
+179;267A;D;Güneş Enerjisi
+180;1748A;C;Güneş Enerjisi
+181;1686A;C;Güneş Enerjisi
+182;560A;C;Güneş Enerjisi
+183;1687A;C;Güneş Enerjisi
